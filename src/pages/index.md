@@ -1,58 +1,80 @@
 ---
-title: Richard Hendriks - Resume
-description: Resume about Richard Hendriks, CEO of Pied Piper.
+title: Carl - Resume
+description: Resume about Carl, a Web3 Full Stack Developer.
 layout: ../layouts/Minimalist.astro
-pdfLink: resume.pdf
+pdfLink: Carl_Resume.pdf
 ---
 
-# Richard Hendriks
+# Carl
 
-**Programmer**
+**Web3 Full Stack Developer**
 
-San Francisco, USA | richard.hendriks@gmail.com | http://richardhendricks.com
-
-Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!
+ShenZhen, China | silverwingsdw@gmail.com 
+ 
+Web3 developer with extensive experience in blockchain technologies, smart contract development, and full-stack engineering. Skilled in designing secure and efficient DeFi protocols, as well as integrating scalable web applications with blockchain systems. Adept at solving complex challenges and delivering robust solutions.
 
 ## Work Experience
 
-### [Google](https://www.google.com/)
+### [Rho Markets](https://rhomarkets.xyz/)
 
-#### Senior Software Engineer | Oct 2022 - Current
+#### Web3 Full Stack Developer | May 2024 - Present
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+- Designed and developed core modules, including market management, lending mechanisms, and liquidation logic, ensuring secure and efficient protocol operations.
+- Implemented and optimized smart contracts using **Solidity**, enhancing system stability and resistance to attacks.
+- Integrated frontend with smart contracts using **React** and **Web3.js**, creating user-friendly lending interfaces.
+- Developed multi-asset interest rate calculation logic to maximize user profitability.
+- Managed off-chain data storage with **PostgreSQL** and **Redis**, enabling efficient processing and access to large-scale data.
+- Conducted smart contract security audits, identifying and resolving vulnerabilities to strengthen overall system security.
 
-#### Software Engineer | Aug 2018 - Oct 2022
+### Agilely
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+#### Web3 Full Stack Developer | Nov 2023 - Mar 2024
 
-### [Pied Piper](http://piedpiper.com/)
+- Refactored and optimized **Liquity** smart contracts, enhancing decentralized lending and stablecoin generation mechanisms for better security and scalability.
+- Developed efficient liquidity pool management logic, enabling seamless asset deposits, withdrawals, and automated liquidations.
+- Improved stablecoin stability by optimizing minting mechanisms and designing a dynamic minting fee model.
+- Built responsive user interfaces with **React** and **Web3.js**, facilitating effective interaction with smart contracts.
 
-#### CEO/President | Dec 2013 - Dec 2014
+### WorldFirst
 
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
+#### React Developer | Apr 2021 - Oct 2023
 
-- Build an algorithm for artist to detect if their music was violating copy right infringement laws
-- Successfully won Techcrunch Disrupt
-- Optimized an algorithm that holds the current world record for Weisman Scores
+- Contributed to the development of the WorldFirst platform frontend, ensuring a responsive design and enhanced user experience across devices.
+- Delivered key features, including the developer payment account management interface, simplifying payment detail management for users.
+- Optimized frontend performance through code splitting and lazy loading, reducing page load times and improving responsiveness.
+- Supported platform internationalization, expanding accessibility to a global audience and increasing international competitiveness.
+- Collaborated with backend teams via RESTful APIs, ensuring data consistency and reliability.
+
+### RimeData
+
+#### Full Stack Developer | Mar 2020 - Mar 2021
+
+- Developed data analysis services with **Golang**, addressing large-scale data processing requirements.
+- Contributed to the feature development and refactoring of Web, App, and Mini Program WebView platforms, enhancing usability and functionality.
 
 ## Projects
 
-### [Sillicon Valley](<https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)>)
+- [Rho Markets](https://www.rhomarkets.xyz/)
+- [Agilely](https://agilely.io/)
+- [WorldFirst](https://www.worldfirst.com/)
+- [RimeData](https://rimedata.com/)
 
-#### Video Compression for 3D Media
+## Skills
 
-#### Founder | Oct 2014
-
-Innovative middle-out compression algorithm that changes the way we store data.
-
-## Languages
-
-| English        | English     |
-| -------------- | ----------- |
-| Native speaker | Proficiency |
+- **Programming Languages:** Proficient in **JavaScript**, **TypeScript**, **Rust**, **Golang**, and **Node.js**.
+- **Blockchain Expertise:** Deep understanding of **Solidity**, **Solana**, **EVM**, and **SVM** mechanisms.
+- **Frameworks:** Experienced with **Hardhat**, **Foundry**, and **Anchor Framework**.
+- **Tools & Libraries:** Skilled in **Web3.js**, **ethers.js**, **wagmi**, **solana-web3.js**.
+- **Security:** Knowledgeable about common vulnerabilities (e.g., reentrancy, integer overflow) and capable of implementing robust security measures.
 
 ## Education
 
-### University of Oklahoma
+### Shenzhen University
 
-#### Bachelor, Information Technology | Jun 2011 - Jan 2014
+#### Bachelor of Computer Science | Jun 2012 - Jan 2016
+ 
+---
+
+Thank you for reviewing this resume. Excited about the possibility of contributing to your team’s success!
+
+[Download PDF](Carl_Resume.pdf)

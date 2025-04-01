@@ -607,10 +607,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fontsource/poppins@npm:^5.1.1":
-  version: 5.1.1
-  resolution: "@fontsource/poppins@npm:5.1.1"
-  checksum: 10c0/22b73f498f5dfc6f42f9553d07f7277b04a86b7ab11bc0030bc75ab5feb46308af979fafcbe9dec66fa164955b0768920f8c43478a32f19d88b686ed1f542a63
+"@fontsource/poppins@npm:^5.2.5":
+  version: 5.2.5
+  resolution: "@fontsource/poppins@npm:5.2.5"
+  checksum: 10c0/276872e5abaad9ab9bf2782882f530d25def70e8c90d0acf608dc99c3ab0ab07fd61b6454f68eeb6ddf7422ea1d4c63b95ba7d336af75d1d34f5631aef93ce4b
   languageName: node
   linkType: hard
 
@@ -1799,7 +1799,7 @@ __metadata:
     "@astrojs/check": "npm:^0.9.4"
     "@astrojs/tailwind": "npm:^5.1.4"
     "@astrojs/vercel": "npm:^8.0.2"
-    "@fontsource/poppins": "npm:^5.1.1"
+    "@fontsource/poppins": "npm:^5.2.5"
     "@netlify/plugin-lighthouse": "npm:^6.0.1"
     "@playwright/test": "npm:^1.49.1"
     "@tailwindcss/typography": "npm:^0.5.16"
